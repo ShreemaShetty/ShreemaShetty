@@ -10,10 +10,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Mehul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Shreema | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
-[![Mehul's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShreemaShetty)](https://github.com/anuraghazra/github-readme-stats)
+[![Shreema's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShreemaShetty)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/shreema-shetty-b254461a0/
